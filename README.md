@@ -6,7 +6,7 @@ heroImage: /logo.jpg
 heroImageStyle:
   {
     height:"200px",
-    width: "100%",
+    width:"100%",
     display: block,
     margin: "9rem auto 2rem",
     background: "#fff",
