@@ -5,7 +5,6 @@ tagline: 欢迎来到zjw的Blog
 heroImage: /logo.jpg
 heroImageStyle:
   {
-    height:"200px",
     width:"100%",
     display: block,
     margin: "9rem auto 2rem",
